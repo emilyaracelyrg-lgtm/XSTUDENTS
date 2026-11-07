@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Ingreso al colegio",
+    "icon": "🏫",
+    "desc": "Comienza la visita desde los ambientes de ingreso.",
+    "img": "assets/colegio/estacion_01.webp"
+  },
+  {
+    "name": "Zona de recepción",
+    "icon": "📍",
+    "desc": "Área de atención y orientación de la institución.",
+    "img": "assets/colegio/estacion_02.webp"
+  },
+  {
+    "name": "Pasillo de acceso",
+    "icon": "🚪",
+    "desc": "Conexión con los ambientes escolares.",
+    "img": "assets/colegio/estacion_03.webp"
+  },
+  {
+    "name": "Patio central",
+    "icon": "🏟️",
+    "desc": "Vista general de la infraestructura y el patio.",
+    "img": "assets/colegio/estacion_04.webp"
+  },
+  {
+    "name": "Patio principal",
+    "icon": "🌤️",
+    "desc": "Recorre la zona común de la institución.",
+    "img": "assets/colegio/estacion_05.webp"
+  },
+  {
+    "name": "Patio lateral",
+    "icon": "🏫",
+    "desc": "Conoce otra vista del patio escolar.",
+    "img": "assets/colegio/estacion_06.webp"
+  },
+  {
+    "name": "Escaleras",
+    "icon": "↗️",
+    "desc": "Acceso a los niveles superiores del colegio.",
+    "img": "assets/colegio/estacion_07.webp"
+  },
+  {
+    "name": "Balcón y corredores",
+    "icon": "🧭",
+    "desc": "Recorrido por los pasillos superiores.",
+    "img": "assets/colegio/estacion_08.webp"
+  },
+  {
+    "name": "Pasillo superior",
+    "icon": "🚶",
+    "desc": "Acceso a las aulas y zonas educativas.",
+    "img": "assets/colegio/estacion_09.webp"
+  },
+  {
+    "name": "Vista hacia el patio",
+    "icon": "🌿",
+    "desc": "Una perspectiva desde el corredor alto.",
+    "img": "assets/colegio/estacion_10.webp"
+  },
+  {
+    "name": "Aula de clases",
+    "icon": "📚",
+    "desc": "Espacio preparado para el aprendizaje.",
+    "img": "assets/colegio/estacion_11.webp"
+  },
+  {
+    "name": "Aula de secundaria",
+    "icon": "✏️",
+    "desc": "Otro ambiente escolar con mobiliario de clase.",
+    "img": "assets/colegio/estacion_12.webp"
+  },
+  {
+    "name": "Aula y material didáctico",
+    "icon": "🧪",
+    "desc": "Espacio para desarrollar actividades y proyectos.",
+    "img": "assets/colegio/estacion_13.webp"
+  },
+  {
+    "name": "Ambiente de aprendizaje",
+    "icon": "💻",
+    "desc": "Una vista de los espacios de trabajo escolar.",
+    "img": "assets/colegio/estacion_14.webp"
+  },
+  {
+    "name": "Escaleras del segundo nivel",
+    "icon": "↗️",
+    "desc": "Desplázate entre los diferentes niveles.",
+    "img": "assets/colegio/estacion_15.webp"
+  },
+  {
+    "name": "Patio desde el segundo piso",
+    "icon": "👀",
+    "desc": "Vista del área común desde las alturas.",
+    "img": "assets/colegio/estacion_16.webp"
+  },
+  {
+    "name": "Patio de recreación",
+    "icon": "🎒",
+    "desc": "Espacio interior para actividades estudiantiles.",
+    "img": "assets/colegio/estacion_17.webp"
+  }
+]

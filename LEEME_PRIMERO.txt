@@ -1,0 +1,36 @@
+X-STUDENTS 26 | EDICIÓN PC + TABLET + CELULAR
+Colegio American Systems · ExpoCiencia 2026
+
+ABRIR LA PÁGINA
+1. Extrae por completo el archivo ZIP.
+2. Dentro de la carpeta X-STUDENTS-26, abre index.html en Chrome o Edge.
+3. Aparecerá el video real que enviaste. Puedes activar el sonido del video y pulsar «Iniciar mi misión».
+4. En PC/tablet usa el menú lateral; en celular usa los botones inferiores.
+5. Sonido de botones: pulsa «🔇 Sonido» en la parte superior para activar/desactivar efectos.
+
+RECORRIDO X-VIRTUAL SCHOOL
+• Incluye 17 estaciones con fotografías reales recuperadas del material que compartiste: ingreso, recepción, patios, escaleras, corredores y aulas.
+• Usa las flechas a los lados de la foto, el mapa de estaciones o la tira de imágenes inferior para desplazarte.
+• Puedes ampliar/reducir las fotografías con ＋ y －; arrastrar horizontalmente con mouse; y entrar a pantalla completa con ⛶.
+• En celular también puedes deslizar horizontalmente para avanzar.
+• IMPORTANTE: este es un recorrido fotográfico interactivo inspirado en la navegación de Street View, NO una captura panorámica 360°, NO un mapa georreferenciado de Google Maps.
+• El mapa es un esquema de estaciones y NO refleja las distancias o posiciones reales del colegio.
+• Algunas imágenes pueden mostrar personas. Antes de publicar el recorrido en internet, comprueba que cuentas con autorización para difundirlas, especialmente si aparecen menores.
+
+FUNCIONES QUE SÍ FUNCIONAN
+• Registrar, completar y eliminar tareas (guardadas en el navegador mediante localStorage).
+• Registrar y eliminar eventos del calendario.
+• Temporizador de estudio de 25 min.
+• Retos de seguridad digital y convivencia con respuestas.
+• X-BOT con respuestas programadas. No es un modelo de inteligencia artificial generativa.
+• Galería del equipo de siete superhéroes y video de entrada.
+
+EDITAR EL PROYECTO
+• index.html: estructura general.
+• styles.css y premium.css: apariencia, efectos, animaciones y diseño adaptativo.
+• script.js y premium.js: funcionalidades, navegación, audio y recorrido.
+• assets/colegio/: las fotografías de los ambientes.
+• assets/intro.mp4: video de presentación.
+• assets/*.webp: imágenes de los personajes.
+
+No se necesita internet ni instalar frameworks para abrirlo localmente, siempre que el navegador permita almacenamiento local y reproducción multimedia. La música/audio del video puede requerir interacción manual por las políticas de autoplay del navegador.

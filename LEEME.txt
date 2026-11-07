@@ -1,0 +1,13 @@
+X-STUDENTS 26 — WEB FUNCIONAL PARA EXPOCIENCIA
+
+1. Descomprime el ZIP entero.
+2. Abre index.html con Chrome o Edge.
+3. Reproduce tu video de intro y pulsa Iniciar mi misión.
+4. Los botones llevan a tareas, calendario, estudio, convivencia, seguridad, X-BOT y recorrido escolar.
+5. Guarda fotos reales en la carpeta assets y modifica la sección de recorrido para publicación permanente. Por ahora existe carga temporal desde el botón de cada ambiente; no se comparte ni se almacena permanentemente.
+6. El recorrido es fotográfico por escenas, NO vídeo 360 grados.
+7. X-BOT responde por reglas educativas, NO es una IA generativa.
+8. Tareas y fechas se guardan solamente en el navegador local; evita datos sensibles.
+9. Edita index.html, styles.css y script.js. No necesita frameworks ni internet.
+
+Para publicar en internet, necesitarás alojar la carpeta en un servidor estático.
